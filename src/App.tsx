@@ -1,4 +1,4 @@
-import './App.css'
+
 import Courses from "./components/Courses.tsx";
 
 function App() {
