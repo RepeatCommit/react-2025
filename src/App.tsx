@@ -1,12 +1,13 @@
 
 import './App.css'
+import Products from "./components/Products.tsx";
 
 function App() {
 
 
   return (
     <>
-hello
+<Products/>
     </>
   )
 }
